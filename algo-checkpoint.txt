@@ -1,0 +1,36 @@
+
+Algorithm 
+
+var:
+i,j,count,wordsCount,vowelsCount:integer
+sentence : char
+
+
+
+for i from 0 to n do:
+if(sentence[i]=char):
+count++;
+write("characters number: "+ count)
+endif
+if(sentence[i]=" ")
+wordsCount++;
+write("number of words: "+ wordsCount);
+endif
+if(sentence[i]=a|e|i|o|u)
+vowelsCount++;
+write("number of vowels: "+vowelsCount);
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
